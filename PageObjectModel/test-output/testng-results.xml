@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-23T13:38:15 IST" name="Suite" finished-at="2022-11-23T13:40:06 IST" duration-ms="111279">
+    <groups>
+    </groups>
+    <test started-at="2022-11-23T13:38:15 IST" name="Test" finished-at="2022-11-23T13:40:06 IST" duration-ms="111279">
+      <class name="testcase.LoginLogut">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:testcase.LoginLogut@4082ba93]" started-at="2022-11-23T13:38:13 IST" name="startReport" finished-at="2022-11-23T13:38:15 IST" duration-ms="1727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="setFile()[pri:0, instance:testcase.LoginLogut@4082ba93]" started-at="2022-11-23T13:38:15 IST" name="setFile" finished-at="2022-11-23T13:38:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setFile -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:testcase.LoginLogut@4082ba93]" started-at="2022-11-23T13:38:15 IST" name="testDetails" finished-at="2022-11-23T13:38:15 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="preCondition(java.lang.String,java.lang.String)[pri:0, instance:testcase.LoginLogut@4082ba93]" started-at="2022-11-23T13:38:15 IST" name="preCondition" finished-at="2022-11-23T13:40:00 IST" duration-ms="105290" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/control/main]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runLogout()[pri:0, instance:testcase.LoginLogut@4082ba93]" started-at="2022-11-23T13:40:00 IST" name="runLogout" finished-at="2022-11-23T13:40:05 IST" duration-ms="4975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runLogout -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:testcase.LoginLogut@4082ba93]" started-at="2022-11-23T13:40:05 IST" name="postCondition" finished-at="2022-11-23T13:40:06 IST" duration-ms="532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:testcase.LoginLogut@4082ba93]" started-at="2022-11-23T13:40:06 IST" name="endReport" finished-at="2022-11-23T13:40:07 IST" duration-ms="1229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- testcase.LoginLogut -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
